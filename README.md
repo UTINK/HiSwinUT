@@ -1,5 +1,4 @@
 # HiSwinUT
 
-The code would be coming soon.
+The code will be coming soon.
 
-hurry, no hot tofu 😁
